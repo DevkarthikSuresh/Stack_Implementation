@@ -1,7 +1,7 @@
 /*
   Name: Devkarthik Suresh
   PRN: 23070123045
-  Aim: Add node at beginning
+  Aim: Stack implementation 
 */
 #include <iostream>
 using namespace std;

@@ -12,7 +12,7 @@ Experiment 18
 - [Conclusion](#conclusion)
 
 ## Aim 
-To use excepttion handling.
+To use stack
 
 ## Software Used 
 VS Code

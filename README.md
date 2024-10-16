@@ -47,7 +47,7 @@ A stack is a linear data structure that follows the Last In, First Out (LIFO) pr
 Stacks can be implemented using two main methods: arrays and linked lists.
 
 ## Algorithms
-# Algorithm for Stack Implementation
+#### Algorithm for Stack Implementation
 
 - Define a class `Stack` with:
   - An array `arr` of size `MAX` to store stack elements.

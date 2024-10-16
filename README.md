@@ -49,12 +49,10 @@ Stacks can be implemented using two main methods: arrays and linked lists.
 ## Algorithms
 # Algorithm for Stack Implementation
 
-## Data Structure
 - Define a class `Stack` with:
   - An array `arr` of size `MAX` to store stack elements.
   - An integer `top` initialized to -1 to track the top element.
 
-## Operations
 
 1. **Push(value)**
    - If `top` is equal to `MAX - 1`, print "Stack overflow! Cannot push."
@@ -69,7 +67,6 @@ Stacks can be implemented using two main methods: arrays and linked lists.
    - If `top` is -1, print "Stack is empty."
    - Otherwise, print all elements from `arr[top]` down to `arr[0]`.
 
-## Main Function
 1. Create an instance of `Stack`.
 2. Repeat the following until the user chooses to exit:
    - Display a menu with options: Push, Pop, Display, Exit.
